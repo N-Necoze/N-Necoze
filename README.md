@@ -1,45 +1,62 @@
-<!-- 1. GitHub ユーザー名を変更 -->
+<!-- ===============================
+     GitHub Profile - N-Necoze
+     Evangelion Style
+================================ -->
+
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=N-Necoze" />
+  <img src="https://komarev.com/ghpvc/?username=N-Necoze&color=red&style=flat-square" />
 </div>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  WELCOME TO THE TERMINAL DOGMA
+</h1>
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<p align="center">
+  <b>DX ENGINEER / SYSTEM OPERATOR</b><br>
+  <sub>“God is in His heaven. All's right with the world.”</sub>
+</p>
 
-- 🧑‍💻 I'm a DX engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [X - @Necoze](https://x.com/necoze_engineer)
-<br>
+---
 
+## 🟥 PROFILE
+CODE NAME      : Necoze</br>
+AFFILIATION   : DX Engineering Section</br>
+MISSION       : Optimize legacy systems & eradicate inefficiency</br>
+STATUS        : ACTIVE
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,arduino,raspberrypi" />
-<br>
+🧑‍💻 DX Engineer
 
-<!-- 4. GitHub ユーザー名を変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=N-Necoze&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Necoze&theme=vue-dark&layout=compact" />
-</div>
+🛠 Excel / Legacy System Breaker
 
+🌱 Currently Syncing with Go
 
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 Contact: https://x.com/necoze_engineer
 
-Here are some ideas to get you started:
+## 🟧 SKILLS / EQUIPMENT
+<p align="center"> <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,arduino,raspberrypi,docker,linux" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PRIMARY WEAPON   : Python</br>
+SUPPORT MODULE  : C</br>
+FIELD DEVICE    : Arduino / Raspberry Pi</br>
+INFRA           : Docker / Linux</br>
+
+## 🟦 OPERATIONS LOG
+<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=N-Necoze&theme=tokyonight&show_icons=true" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Necoze&theme=tokyonight&layout=compact" /> </div>
+
+<!-- ===============================
+     MAGI SYSTEM : Qiita Feed
+================================ -->
+
+## 🟦 MAGI SYSTEM LOG (Qiita)
+
+> 🛰 Syncing articles from Qiita : Necoze  
+> Source: https://qiita.com/Necoze
+
+<!-- QIITA-POSTS:START -->
+
+- 📝 **記事を同期中…**
+- 🛠 MAGI is analyzing contents
+
+<!-- QIITA-POSTS:END -->
+
