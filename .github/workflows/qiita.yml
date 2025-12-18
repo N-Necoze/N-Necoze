@@ -1,0 +1,22 @@
+name: Update Qiita Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6時間ごと
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Qiita RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://qiita.com/Necoze/feed.atom"
+          comment_tag_name: "QIITA-POSTS"
+          max_post_count: 5
+          template: |
+            - 📝 **[$title]($url)**  
+              <sub>$date</sub>
