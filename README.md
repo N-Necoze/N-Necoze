@@ -53,10 +53,9 @@ INFRA           : Docker / Linux</br>
 > 🛰 Syncing articles from Qiita : Necoze  
 > Source: https://qiita.com/Necoze
 
-<!-- QIITA-POSTS:START -->
-
-- 📝 **記事を同期中…**
-- 🛠 MAGI is analyzing contents
-
-<!-- QIITA-POSTS:END -->
+<!-- QIITA-POSTS:START -->- 📝 **[【保存版】私が毎日使っているVS Code拡張機能4選（Copilot / Serial Monitor / WSL / 日本語化）](https://qiita.com/Necoze/items/a9ab188310ca68f80da4)**  
+  <sub>Thu Dec 18 2025 1:23 PM</sub>- 📝 **[コウメさんと一緒に「チクショー」を鳴らそう。](https://qiita.com/Necoze/items/7cdc96d14b01dfd137b4)**  
+  <sub>Sun Dec 14 2025 1:58 PM</sub>- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その5（ボリジャーバンド）](https://qiita.com/Necoze/items/a6f3b1a60d9c93821cd1)**  
+  <sub>Sun Dec 14 2025 7:18 AM</sub>- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その4（移動平均乖離率）](https://qiita.com/Necoze/items/c0577a7171ab969fb996)**  
+  <sub>Sun Dec 14 2025 2:37 AM</sub><!-- QIITA-POSTS:END -->
 
