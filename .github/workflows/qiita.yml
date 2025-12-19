@@ -18,5 +18,4 @@ jobs:
           comment_tag_name: "QIITA-POSTS"
           max_post_count: 5
           template: |
-            - 📝 [$title]($url)
-            
+            - 📝 **[$title]($url)**  
