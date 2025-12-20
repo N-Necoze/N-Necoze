@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[Pythonだけで作る「MS-DOS風」フライト情報CLIクソアプリ](https://qiita.com/Necoze/items/00ad709c8ba72a489cf4)**  
+<sub></sub><sub></sub>
 - 📝 **[GitHubプロフィール一新大作戦。](https://qiita.com/Necoze/items/c402c039d6ae4f23dbc0)**  
 <sub></sub><sub></sub>
 - 📝 **[GitHubプロフィールにQiita最新記事を自動表示する方法（GitHub Actions）](https://qiita.com/Necoze/items/c22a349c88e763a54e19)**  
 <sub></sub><sub></sub>
 - 📝 **[【保存版】私が毎日使っているVS Code拡張機能4選（Copilot / Serial Monitor / WSL / 日本語化）](https://qiita.com/Necoze/items/a9ab188310ca68f80da4)**  
-<sub></sub><sub></sub>
-- 📝 **[コウメさんと一緒に「チクショー」を鳴らそう。](https://qiita.com/Necoze/items/7cdc96d14b01dfd137b4)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
