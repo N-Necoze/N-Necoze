@@ -53,6 +53,12 @@ INFRA           : Docker / Linux</br>
 > 🛰 Syncing articles from Qiita : Necoze  
 > Source: https://qiita.com/Necoze
 
+## ✨ Qiita Pickup
+<!-- QIITA-PICKUP:START -->
+<!-- QIITA-PICKUP:END -->
+
+---
+
 <!-- QIITA-POSTS:START --><sub></sub>
 - 📝 **[GitHubプロフィール一新大作戦。](https://qiita.com/Necoze/items/c402c039d6ae4f23dbc0)**  
 <sub></sub><sub></sub>
@@ -63,3 +69,6 @@ INFRA           : Docker / Linux</br>
 - 📝 **[コウメさんと一緒に「チクショー」を鳴らそう。](https://qiita.com/Necoze/items/7cdc96d14b01dfd137b4)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
+## 🔗 Links
+- 🐙 GitHub: https://github.com/N-Necoze  
+- ✍ Qiita: https://qiita.com/N-Necoze
