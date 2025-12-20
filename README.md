@@ -54,12 +54,12 @@ INFRA           : Docker / Linux</br>
 > Source: https://qiita.com/Necoze
 
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[GitHubプロフィール一新大作戦。](https://qiita.com/Necoze/items/c402c039d6ae4f23dbc0)**  
+<sub></sub><sub></sub>
 - 📝 **[GitHubプロフィールにQiita最新記事を自動表示する方法（GitHub Actions）](https://qiita.com/Necoze/items/c22a349c88e763a54e19)**  
 <sub></sub><sub></sub>
 - 📝 **[【保存版】私が毎日使っているVS Code拡張機能4選（Copilot / Serial Monitor / WSL / 日本語化）](https://qiita.com/Necoze/items/a9ab188310ca68f80da4)**  
 <sub></sub><sub></sub>
 - 📝 **[コウメさんと一緒に「チクショー」を鳴らそう。](https://qiita.com/Necoze/items/7cdc96d14b01dfd137b4)**  
-<sub></sub><sub></sub>
-- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その5（ボリジャーバンド）](https://qiita.com/Necoze/items/a6f3b1a60d9c93821cd1)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
