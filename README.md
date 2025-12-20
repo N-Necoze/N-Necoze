@@ -53,12 +53,6 @@ INFRA           : Docker / Linux</br>
 > 🛰 Syncing articles from Qiita : Necoze  
 > Source: https://qiita.com/Necoze
 
-### ✨ Qiita Pickup
-<!-- QIITA-PICKUP:START -->
-<!-- QIITA-PICKUP:END -->
-
----
-
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START -->
 <!-- QIITA-POSTS:END -->
