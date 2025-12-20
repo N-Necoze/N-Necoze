@@ -11,7 +11,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Qiita RSS
+      # ============================
+      # Qiita Pickup Articles
+      # ============================
+      - name: Fetch Qiita Pickup Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://qiita.com/tags/pickup/feed.atom"
+          comment_tag_name: "QIITA-PICKUP"
+          max_post_count: 3
+          template: |
+            <sub></sub>
+            - 🚀 **[$title]($url)**
+              - 🏷 $categories
+              - 🌟 Qiita Pickup
+
+      # ============================
+      # Recent Qiita Articles
+      # ============================
+      - name: Fetch Recent Qiita Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://qiita.com/Necoze/feed.atom"
