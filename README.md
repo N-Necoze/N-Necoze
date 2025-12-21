@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
-- 📝 **[ワイが好きなASCIIアートのチートツール作ったので共有するお。](https://qiita.com/Necoze/items/f6c8f12d8838f9373a1f)**  
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その9（DMI）](https://qiita.com/Necoze/items/0d89fa867222de6050bc)**  
 <sub></sub><sub></sub>
-- 📝 **[Pythonだけで作る「MS-DOS風」フライト情報CLIクソアプリ](https://qiita.com/Necoze/items/00ad709c8ba72a489cf4)**  
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その8（Volume ratio）](https://qiita.com/Necoze/items/9ad5bde9d912807768ff)**  
 <sub></sub><sub></sub>
-- 📝 **[GitHubプロフィール一新大作戦。](https://qiita.com/Necoze/items/c402c039d6ae4f23dbc0)**  
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その7（Stochastic）](https://qiita.com/Necoze/items/0340e42ab8d416242bcd)**  
 <sub></sub><sub></sub>
-- 📝 **[GitHubプロフィールにQiita最新記事を自動表示する方法（GitHub Actions）](https://qiita.com/Necoze/items/c22a349c88e763a54e19)**  
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その6（RSI）](https://qiita.com/Necoze/items/952b6c64096866545e13)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
