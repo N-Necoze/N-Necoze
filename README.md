@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１０（投稿編）](https://qiita.com/Necoze/items/61f6efe413f9baf7de85)**  
+<sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - 番外編（スクリーニング整理）](https://qiita.com/Necoze/items/f350359fbeb9cd330073)**  
 <sub></sub><sub></sub>
 - 📝 **[クリスマスプレゼンととして、はじめての3Dプリンターを購入](https://qiita.com/Necoze/items/c2351820006b6af98a77)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その9（DMI）](https://qiita.com/Necoze/items/0d89fa867222de6050bc)**  
-<sub></sub><sub></sub>
-- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その8（Volume ratio）](https://qiita.com/Necoze/items/9ad5bde9d912807768ff)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
