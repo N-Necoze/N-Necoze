@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１７（移動平均乖離率）](https://qiita.com/Necoze/items/eb3a36b8e77ab008a712)**  
+<sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１６（RCI）](https://qiita.com/Necoze/items/c5a7c5dfd35f08a842e8)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１５（サイコロジカル）](https://qiita.com/Necoze/items/3c06f2eb877c9e66a636)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１４（エンベロープ）](https://qiita.com/Necoze/items/e3bbe7215101dc715ca6)**  
-<sub></sub><sub></sub>
-- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その１３（パラボリック）](https://qiita.com/Necoze/items/bb29ef119c9ae1f9b264)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
