@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[Windows標準でタスクスケジューラがあることをまだ君は知らない。](https://qiita.com/Necoze/items/345b2d50fe90d67f5c4f)**  
+<sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２４（スパイクフォーメーション）](https://qiita.com/Necoze/items/34fa191f51f7fa2e6010)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２３（ラインフォーメーション）](https://qiita.com/Necoze/items/30a275300f0e55ccc94d)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２２（ソーサーボトム）](https://qiita.com/Necoze/items/5843c3a5ada0366fec4e)**  
-<sub></sub><sub></sub>
-- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２１（三角保ち合い）](https://qiita.com/Necoze/items/92ff1ad4b6faa885adad)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
