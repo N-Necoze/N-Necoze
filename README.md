@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[まだAPIの従量課金で消耗してるの?〜Gemmaをローカル構築・動作確認メモ〜](https://qiita.com/Necoze/items/463cc54ef680e90365f8)**  
+<sub></sub><sub></sub>
 - 📝 **[ローカルLLMを用いたマルチエージェント構築 〜構築前検討メモ〜](https://qiita.com/Necoze/items/fb3d5a56d56cb846f7d0)**  
 <sub></sub><sub></sub>
 - 📝 **[Windows標準でタスクスケジューラがあることをまだ君は知らない。](https://qiita.com/Necoze/items/345b2d50fe90d67f5c4f)**  
 <sub></sub><sub></sub>
 - 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２４（スパイクフォーメーション）](https://qiita.com/Necoze/items/34fa191f51f7fa2e6010)**  
-<sub></sub><sub></sub>
-- 📝 **[📈そろそろ来るかも？株&amp;投資信託の“兆し”を分析して自動ポストする仕組みを作った話 - その２３（ラインフォーメーション）](https://qiita.com/Necoze/items/30a275300f0e55ccc94d)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
