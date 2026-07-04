@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[Python環境、Anacondaから See You Again。別れの言葉はなしか？](https://qiita.com/Necoze/items/1089c90b37f68eb71b76)**  
+<sub></sub><sub></sub>
 - 📝 **[Gemma 2 日本語特化モデルをローカルで動かす〜 キャッシュ活用編〜](https://qiita.com/Necoze/items/64458a669a82d7238dca)**  
 <sub></sub><sub></sub>
 - 📝 **[まだAPIの従量課金で消耗してるの?〜Gemmaをローカル構築・動作確認メモ〜](https://qiita.com/Necoze/items/463cc54ef680e90365f8)**  
 <sub></sub><sub></sub>
 - 📝 **[ローカルLLMを用いたマルチエージェント構築 〜構築前検討メモ〜](https://qiita.com/Necoze/items/fb3d5a56d56cb846f7d0)**  
-<sub></sub><sub></sub>
-- 📝 **[Windows標準でタスクスケジューラがあることをまだ君は知らない。](https://qiita.com/Necoze/items/345b2d50fe90d67f5c4f)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
