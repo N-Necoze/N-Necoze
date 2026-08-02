@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[AIを使った開発をしたあとに、1周回ってエンジニアの由緒ある開発手法が大切なのかもと思った](https://qiita.com/Necoze/items/b64d3383fdd2a92b934a)**  
+<sub></sub><sub></sub>
 - 📝 **[📄AIモデルレポーティング：Microsoft製 OCR付AI？](https://qiita.com/Necoze/items/fd21fc1ecdbf72bf7af9)**  
 <sub></sub><sub></sub>
 - 📝 **[ハードオフはまだまだ捨てたもんじゃない。](https://qiita.com/Necoze/items/cb4a5e3ece5341189c8a)**  
 <sub></sub><sub></sub>
 - 📝 **[Gemma 2 日本語特化モデルをGPUで動かす〜 速度比較編〜](https://qiita.com/Necoze/items/310fc009862286242727)**  
-<sub></sub><sub></sub>
-- 📝 **[Python環境、Anacondaから See You Again。別れの言葉はなしか？](https://qiita.com/Necoze/items/1089c90b37f68eb71b76)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
