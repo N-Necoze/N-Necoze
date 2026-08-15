@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[自作ゲーミングPC&lpar;RTX 4060 Ti&rpar; vs ビジネスノートPC&lpar;ThinkPad E495&rpar; ── Gemma 4 E4B-it ローカル推論速度比較検証](https://qiita.com/Necoze/items/d46cb28a349997865c0c)**  
+<sub></sub><sub></sub>
 - 📝 **[📄AIモデルレポーティング：gemma-4-E4B-itでマルチモーダルアプリを目指すために](https://qiita.com/Necoze/items/9f07f8b5b58ff9712282)**  
 <sub></sub><sub></sub>
 - 📝 **[AIを使った開発をしたあとに、1周回ってエンジニアの由緒ある開発手法が大切なのかもと思った](https://qiita.com/Necoze/items/b64d3383fdd2a92b934a)**  
 <sub></sub><sub></sub>
 - 📝 **[📄AIモデルレポーティング：Microsoft製 OCR付AI？](https://qiita.com/Necoze/items/fd21fc1ecdbf72bf7af9)**  
-<sub></sub><sub></sub>
-- 📝 **[ハードオフはまだまだ捨てたもんじゃない。](https://qiita.com/Necoze/items/cb4a5e3ece5341189c8a)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
