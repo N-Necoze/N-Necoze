@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[📄医療業界に通なGemmaモデルがオープンソースモデルとしてあるらしい。](https://qiita.com/Necoze/items/9d65c3fd53ae27dfc632)**  
+<sub></sub><sub></sub>
 - 📝 **[【UPS導入】雷が怖かっただけなんですぅ。](https://qiita.com/Necoze/items/1b43db14a14b7b34406c)**  
 <sub></sub><sub></sub>
 - 📝 **[昨今話題の「Jarvis」について。OpenJarvis &lpar;open-jarvis/OpenJarvis&rpar;](https://qiita.com/Necoze/items/18f27be2c487fc3fb9fe)**  
 <sub></sub><sub></sub>
 - 📝 **[📄AIモデルレポーティング：Qwen3-8B-AWQで3Dプリントするためのスクリプト生成ができる？](https://qiita.com/Necoze/items/2be58fccec410ae773c9)**  
-<sub></sub><sub></sub>
-- 📝 **[自作ゲーミングPC&lpar;RTX 4060 Ti&rpar; vs ビジネスノートPC&lpar;ThinkPad E495&rpar; ── Gemma 4 E4B-it ローカル推論速度比較検証](https://qiita.com/Necoze/items/d46cb28a349997865c0c)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
