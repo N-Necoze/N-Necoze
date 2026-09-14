@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[KEV掲載のScreenConnectとArtifactory脆弱性3件：影響と対策（2026-09-14）](https://qiita.com/Necoze/items/6fd51f39c0ea75702623)**  
+<sub></sub><sub></sub>
+- 📝 **[最新技術動向を覗く：AI画像生成の「違和感」解消から、超軽量コンパイラ開発まで](https://qiita.com/Necoze/items/ddf01c018da84ba97f89)**  
+<sub></sub><sub></sub>
 - 📝 **[📄医療業界に通なGemmaモデルがオープンソースモデルとしてあるらしい。](https://qiita.com/Necoze/items/9d65c3fd53ae27dfc632)**  
 <sub></sub><sub></sub>
 - 📝 **[【UPS導入】雷が怖かっただけなんですぅ。](https://qiita.com/Necoze/items/1b43db14a14b7b34406c)**  
-<sub></sub><sub></sub>
-- 📝 **[昨今話題の「Jarvis」について。OpenJarvis &lpar;open-jarvis/OpenJarvis&rpar;](https://qiita.com/Necoze/items/18f27be2c487fc3fb9fe)**  
-<sub></sub><sub></sub>
-- 📝 **[📄AIモデルレポーティング：Qwen3-8B-AWQで3Dプリントするためのスクリプト生成ができる？](https://qiita.com/Necoze/items/2be58fccec410ae773c9)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
