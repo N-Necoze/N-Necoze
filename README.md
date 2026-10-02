@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[AI時代の働き方と開発の進化：思考の質とツールの変遷から見えたトレンド](https://qiita.com/Necoze/items/df2df62d202554475dbf)**  
+<sub></sub><sub></sub>
 - 📝 **[技術トレンドの断片から見る視点と実装の進化：プレゼンテーションからセキュリティ自動化まで](https://qiita.com/Necoze/items/0bdac3090923903798fd)**  
 <sub></sub><sub></sub>
 - 📝 **[最新技術動向を覗く：AI画像生成の「違和感」解消から、超軽量コンパイラ開発まで](https://qiita.com/Necoze/items/ddf01c018da84ba97f89)**  
 <sub></sub><sub></sub>
 - 📝 **[📄医療業界に通なGemmaモデルがオープンソースモデルとしてあるらしい。](https://qiita.com/Necoze/items/9d65c3fd53ae27dfc632)**  
-<sub></sub><sub></sub>
-- 📝 **[【UPS導入】雷が怖かっただけなんですぅ。](https://qiita.com/Necoze/items/1b43db14a14b7b34406c)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
