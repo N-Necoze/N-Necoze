@@ -55,13 +55,13 @@ INFRA           : Docker / Linux</br>
 
 ### 📝 Recent Qiita Posts
 <!-- QIITA-POSTS:START --><sub></sub>
+- 📝 **[技術トレンドの断片から見る：情報発信の「質」と「構造」の進化について](https://qiita.com/Necoze/items/921ba9e75177279e7852)**  
+<sub></sub><sub></sub>
 - 📝 **[技術トレンドを俯瞰する：セキュリティ、AI、そしてプラットフォームの進化について](https://qiita.com/Necoze/items/cca102a6652cf33a310c)**  
 <sub></sub><sub></sub>
 - 📝 **[セキュリティと開発の最前線：認証、コード品質、そしてAI時代の開発プラクティスを読み解く](https://qiita.com/Necoze/items/67f991e6ebef2f625acb)**  
 <sub></sub><sub></sub>
 - 📝 **[2026年のセキュリティと開発トレンドから見るべき視点：攻撃の高度化と開発基盤の進化](https://qiita.com/Necoze/items/180b746b73651fd87769)**  
-<sub></sub><sub></sub>
-- 📝 **[AI時代の働き方と開発の進化：思考の質とツールの変遷から見えたトレンド](https://qiita.com/Necoze/items/df2df62d202554475dbf)**  
 <sub></sub><!-- QIITA-POSTS:END -->
 
 ## 🔗 Links
